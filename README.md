@@ -2,33 +2,50 @@
 
 # SAGAR HUNDIA
 
-### `AI ENGINEER · FULL-STACK BUILDER · HACKATHON SHIPPER`
+### `AI ENGINEER · FULL-STACK BUILDER · RAPID PROTOTYPER`
 
-I build AI-powered products, developer tools, and interactive systems that turn ambitious ideas into working software.
+**I build AI-native products that turn ambitious ideas into working systems.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-sagar25446--prog-0d1117?style=for-the-badge&logo=github)](https://github.com/sagar25446-prog)
-[![Projects](https://img.shields.io/badge/Projects-AI%20%26%20Full--Stack-0d1117?style=for-the-badge)](https://github.com/sagar25446-prog?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-sagar25446--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagar25446-prog)
+[![Profile](https://komarev.com/ghpvc/?username=sagar25446-prog&style=for-the-badge&color=blueviolet)](https://github.com/sagar25446-prog)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-0d1117?style=for-the-badge&logo=github)](https://github.com/sagar25446-prog?tab=repositories)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `> whoami`
 
 ```text
-sagar@devbox:~$ ./sagar --status
+sagar@devbox:~$ ./sagar --profile
 
-focus       : AI systems + full-stack products
-build style : fast, visual, practical
-favorite    : turning an idea into a demo that actually works
-current     : shipping AI projects, hackathon systems & experiments
+role        : AI Engineer / Full-Stack Builder
+focus       : AI products · agents · realtime systems · applied ML
+build loop  : idea → prototype → test → polish → ship
+strength    : turning complex ideas into demo-ready products
+philosophy  : useful software > impressive buzzwords
 ```
 
-I like building at the intersection of **AI, product engineering, and real-world usability**. My projects range from adaptive AI tutoring and voice interfaces to healthcare platforms and interactive ML research artifacts.
+I enjoy building at the intersection of **AI, product engineering, and real-world usability**. My work spans adaptive tutoring, voice interfaces over telecom, multi-agent systems, healthcare software, trading automation, and reproducible ML experiments.
+
+> **I use AI heavily as a development multiplier — but the goal is always a working, understandable product.**
 
 ---
 
-## `$ ls ~/projects --sort=impact`
+## ⚡ What I Build
+
+| Area | What I like building |
+|---|---|
+| 🧠 **AI / LLMs** | RAG, structured prompting, evaluation loops, memory, multilingual assistants |
+| 🤖 **Agents** | Multi-agent orchestration, role-based workflows, context passing |
+| 🎙️ **Realtime AI** | Voice pipelines, WebSockets, streaming, interruption handling |
+| 🧪 **Applied ML** | Interactive experiments, reproducible research artifacts, simulations |
+| 🌐 **Full Stack** | React, Next.js, FastAPI, Node.js, PostgreSQL, SQLite |
+| 🚀 **Shipping** | Hackathons, prototypes, demos, rapid product iteration |
+
+---
+
+# 🚀 Featured Builds
 
 <table>
 <tr>
@@ -38,20 +55,20 @@ I like building at the intersection of **AI, product engineering, and real-world
 
 **AI Teacher of the Future**
 
-A source-grounded, multilingual AI teacher that plans lessons, explains concepts, checks understanding, diagnoses misconceptions, and adapts what it teaches.
+Source-grounded multilingual tutoring that **plans → teaches → checks → diagnoses → re-teaches → remembers**. Supports document-grounded lessons, adaptive evaluation, student memory, flashcards, study plans and locally rendered teaching videos.
 
-`Gemini` `RAG` `FastAPI` `LangChain` `ChromaDB` `Manim` `edge-tts`
+`Gemini` `RAG` `FastAPI` `ChromaDB` `LangChain` `Manim`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📞 [Dial2AI](https://github.com/sagar25446-prog/vibe-coding-hackathon-2026-git-push-pray)
 
-**AI over a phone call**
+**AI over an ordinary phone call**
 
-A voice-first AI assistant designed to work through ordinary phone calls, combining telecom streaming, conversational memory, multilingual voice, live APIs and post-call analytics.
+A voice-first assistant that bridges the digital divide through telecom streaming, conversational memory, multilingual voice, live APIs, barge-in interruption and post-call analytics — without requiring a smartphone app.
 
-`FastAPI` `WebSockets` `Gemini` `Next.js` `SQLite` `Exotel`
+`FastAPI` `WebSockets` `Gemini` `Exotel` `Next.js` `SQLite`
 
 </td>
 </tr>
@@ -62,18 +79,18 @@ A voice-first AI assistant designed to work through ordinary phone calls, combin
 
 **Interactive ML research artifact**
 
-A reproducible browser + Python exploration of fixed-size Hebbian memory, interference, capacity and the relationship to linear attention.
+A browser + Python exploration of fixed-size Hebbian memory, interference, capacity and the connection to causal linear attention, with cross-implementation verification.
 
 `Python` `JavaScript` `Jupyter` `ML Research`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [Q-Care](https://github.com/sagar25446-prog/Hospital-Management-System)
+### 🏥 Q-Care
 
-**Modern hospital management system**
+**Hospital Management Platform**
 
-A full-stack healthcare platform with patient queues, telehealth, digital prescriptions, analytics, authentication and an AI symptom-checking experience.
+A full-stack healthcare system with patient queues, wait-time estimation, telehealth, digital prescriptions, analytics, authentication and an AI symptom-checking experience.
 
 `React` `Express` `PostgreSQL` `JWT` `Tailwind`
 
@@ -81,101 +98,28 @@ A full-stack healthcare platform with patient queues, telehealth, digital prescr
 </tr>
 </table>
 
-<details>
-<summary><b>More projects</b></summary>
-
-<br>
-
-| Project | What it explores |
-|---|---|
-| [Autonomous AI Company Simulator](https://github.com/sagar25446-prog/AI-AGENTS-) | Multi-agent orchestration with CEO, Developer and Designer agents |
-| [Jarurat Care AI](https://github.com/sagar25446-prog/jarurat-care-ai) | AI-focused application work with a React/Vite stack |
-| [Trading Bot](https://github.com/sagar25446-prog/Trading_Bot) | Automated trading experimentation |
-| [Binance Futures Trading Bot](https://github.com/sagar25446-prog/binance-futures-trading-bot) | Trading automation prototype |
-| [AffinityAnswers Assignment](https://github.com/sagar25446-prog/AffinityAnswers-Assignment) | Coursework / experimental work |
-
-</details>
-
 ---
 
-## `$ tree ~/toolbox`
-
-```text
-AI / ML
-├── Generative AI
-├── RAG & retrieval
-├── Prompt engineering
-├── Multi-agent systems
-└── ML experimentation
-
-Backend
-├── Python
-├── FastAPI
-├── Node.js / Express
-├── APIs & WebSockets
-└── Data / persistence
-
-Frontend
-├── React
-├── Next.js
-├── Tailwind CSS
-└── Interactive UI / visualization
-
-Build & Ship
-├── Git / GitHub
-├── Linux
-├── Testing
-└── Hackathon prototyping
-```
-
-I care more about **building useful systems** than collecting a long list of technologies. The stack changes with the problem.
-
----
-
-## `$ cat current_focus.txt`
-
-```text
-→ building stronger AI-native products
-→ improving software architecture and reliability
-→ experimenting with agentic workflows
-→ turning hackathon prototypes into polished demos
-→ learning by building instead of only reading
-```
-
----
-
-## `$ git log --graph --oneline`
-
-```text
-* AI teaching systems          → GuruFlow
-* Voice + telecom AI           → Dial2AI
-* ML research / visualization  → Attention Without a Cache
-* Full-stack product systems   → Q-Care
-* Multi-agent experimentation  → AI Company Simulator
-* AI-assisted rapid prototyping→ ongoing
-```
-
----
-
-## `$ ./stack --human`
-
-| Problem | Tools I reach for |
-|---|---|
-| **AI product** | Gemini, RAG, APIs, structured prompting |
-| **Backend** | Python, FastAPI, Node.js, Express |
-| **Frontend** | React, Next.js, Tailwind |
-| **Data** | PostgreSQL, SQLite, vector databases |
-| **Realtime** | WebSockets, streaming pipelines |
-| **Prototype → demo** | GitHub + Linux + rapid iteration |
-
----
-
-## `$ ./profile --live`
+## 🏆 Trophy Wall
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sagar25446-prog&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25446-prog&layout=compact&hide_border=true" height="170" alt="Top languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=sagar25446-prog&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<a href="https://github.com/sagar25446-prog">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar25446-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
+</a>
+<a href="https://github.com/sagar25446-prog">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25446-prog&layout=compact&langs_count=8&hide_border=true" height="170" alt="Top languages" />
+</a>
 
 <br/>
 
@@ -185,13 +129,108 @@ I care more about **building useful systems** than collecting a long list of tec
 
 ---
 
-## `$ ./contact`
+## 🔥 Build Activity
 
 <div align="center">
 
-**Building something interesting with AI? Let's build it.**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar25446-prog&hide_border=true&area=true" alt="GitHub activity graph" />
 
-[GitHub](https://github.com/sagar25446-prog)
+</div>
+
+---
+
+## 🧰 Toolbox
+
+```text
+AI / ML
+├── Generative AI & LLM applications
+├── RAG & retrieval
+├── Prompt / context engineering
+├── Multi-agent workflows
+├── Evaluation & adaptive loops
+└── ML experimentation
+
+Backend
+├── Python · FastAPI
+├── Node.js · Express
+├── REST APIs
+├── WebSockets / streaming
+└── SQLite · PostgreSQL · vector databases
+
+Frontend
+├── React
+├── Next.js
+├── Tailwind CSS
+├── Vite
+└── Interactive visualization
+
+Build & Ship
+├── Git / GitHub
+├── Linux
+├── Testing
+├── Rapid prototyping
+└── Hackathon delivery
+```
+
+---
+
+## 📂 More Projects
+
+<details>
+<summary><b>Explore the rest of my work</b></summary>
+
+<br>
+
+| Project | Description |
+|---|---|
+| [Autonomous AI Company Simulator](https://github.com/sagar25446-prog/AI-AGENTS-) | Multi-agent CEO / Developer / Designer collaboration with prompt chaining and shared context. |
+| [Jarurat Care AI](https://github.com/sagar25446-prog/jarurat-care-ai) | AI-oriented React/Vite application prototype. |
+| [Binance Futures Trading Bot](https://github.com/sagar25446-prog/binance-futures-trading-bot) | Testnet CLI trading bot with validation, structured logging, retries and dry-run support. |
+| [Trading Bot](https://github.com/sagar25446-prog/Trading_Bot) | Quant trading experimentation project. |
+| [AffinityAnswers Assignment](https://github.com/sagar25446-prog/AffinityAnswers-Assignment) | Full-stack/data-engineering style technical assignment with web scraping, AI extraction and shell processing. |
+
+</details>
+
+---
+
+## 🧠 Selected Engineering Patterns
+
+```text
+SOURCE → RETRIEVE → REASON → ACT → EVALUATE → ADAPT
+                         ↓
+              build systems that can respond
+              to users instead of only replying
+```
+
+I am especially interested in systems where AI is **part of the product loop**, not just a chat box: grounding, memory, evaluation, realtime interaction, and feedback-driven adaptation.
+
+---
+
+## 🗺️ Current Direction
+
+```text
+→ stronger AI-native product architecture
+→ agentic workflows with better reliability
+→ realtime voice + multimodal interfaces
+→ turning hackathon prototypes into polished products
+→ reproducible experiments that explain how systems work
+```
+
+---
+
+## 🧪 How I Like to Work
+
+`prototype fast` → `measure what matters` → `find the weak point` → `fix it` → `ship`
+
+I prefer **small feedback loops, visible demos, honest limitations, and practical engineering** over building complexity for its own sake.
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/sagar25446-prog)
 
 </div>
 
@@ -199,6 +238,8 @@ I care more about **building useful systems** than collecting a long list of tec
 
 <div align="center">
 
-`built with curiosity · shipped with AI · improved one commit at a time`
+### `BUILD • BREAK • LEARN • SHIP`
+
+<sub>Built with curiosity. Improved one commit at a time.</sub>
 
 </div>
